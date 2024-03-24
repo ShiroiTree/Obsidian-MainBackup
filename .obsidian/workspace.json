@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cache/Obsidian/Plugs/Obsidian-Git.md",
-                "mode": "preview",
+                "file": "Misc/Visual Studio 美化.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cache/Obsidian/Plugs/Obsidian-Git.md",
+                "file": "Misc/Visual Studio 美化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cache/Obsidian/Plugs/Obsidian-Git.md",
+                "file": "Misc/Visual Studio 美化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cache/Obsidian/Plugs/Obsidian-Git.md"
+                "file": "Misc/Visual Studio 美化.md"
               }
             }
           },
@@ -171,11 +171,12 @@
   },
   "active": "5b906d334a05b274",
   "lastOpenFiles": [
-    "Cache/Software/Command-Line/Git.md",
     "Cache/Obsidian/Plugs/Obsidian-Git.md",
+    "Misc/Visual Studio 美化.md",
+    "().md",
+    "Cache/Software/Command-Line/Git.md",
     "Misc/Obsidian 配置.md",
     "Cache/Software/Command-Line/Shell.md",
-    "().md",
     "Cache/Software/Command-Line",
     "Cache/Software",
     "Reading/On Going.md",
@@ -207,7 +208,6 @@
     "Notes/通识课程/美学原理.md",
     "Notes/【笔记】机器学习/神经网络初步/从头开始.md",
     "Notes/Math/6.050J Information And Entropy/Chap 01 & 02 Bits and Codes.md",
-    "Notes/【笔记】通识课程/大学生军事理论教程.md",
     "未命名.canvas"
   ]
 }
