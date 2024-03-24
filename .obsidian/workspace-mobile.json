@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "11844fa41f4644bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f5b113fea1acfba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e50eddd0305e7f59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc/Obsidian 配置.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "170632df9ab3230f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0721ff1c5fcf4f36",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "2923ea4cfd4e0f55",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "de12cfceed3c053a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "34150c4201a4bdcf",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "ffd521ce7c766663",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d9e9deec6075db16",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f60cc0fc54efe57a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Misc/Obsidian 配置.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": false
+          }
+        }
+      },
+      {
+        "id": "82b9e910d89bc34e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Misc/Obsidian 配置.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": false
+          }
+        }
+      },
+      {
+        "id": "5bbbff0cc232be39",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Misc/Obsidian 配置.md"
+          }
+        }
+      },
+      {
+        "id": "4a4ac4515efe566a",
+        "type": "leaf",
+        "state": {
+          "type": "mermaid-toolbar-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "e50eddd0305e7f59",
+  "lastOpenFiles": [
+    "Cache/Obsidian/Plugs/Obsidian-Git.md",
+    "Misc/Obsidian 配置.md",
+    "Notes/Computer Science/The missing semaster/Shell.md",
+    "Notes/Computer Science/CS61A/Course/Week 3.md",
+    "Notes/Math/离散数学/命题逻辑.md",
+    "Reading/On Going.md",
+    "Reading",
+    "Notes/Computer Science/CS61A/Labs/Some Example for Higher-Order Function.md",
+    "Notes/Math/CS70 Discrete Math and Probability Theory/Course/Lec 01.md",
+    "Notes/Math/离散数学",
+    "Notes/Computer Science/CS61A/Course/Wake 2.md",
+    "Notes/Math/6.050J Information And Entropy/Chap 01 & 02 Bits and Codes.md",
+    "Notes/Computer Science/CS61A/Course/Week 1.md",
+    "Notes/通识课程/大学生军事理论教程.md",
+    "Notes/通识课程/美学原理.md",
+    "Notes/Data Structure/Lead in.md",
+    "Notes/Data Structure/Linear List.md",
+    "Misc/工具、网站整理.md",
+    "【001-课程笔记】/【笔记】机器学习/神经网络初步/从头开始.md",
+    "【001-课程笔记】/【笔记】机器学习/神经网络初步.md",
+    "【002-实践笔记】/【算法】刷题笔记/【洛谷】/二分.md",
+    "Notes/Data Structure",
+    "【001-课程笔记】/【CS】/CS61A/Week 1.md",
+    "Notes/Computer Science/CS61A/Course",
+    "Notes/Computer Science/CS61A/Resources.md",
+    "Notes/Computer Science/CS61A/Labs",
+    "Notes/Computer Science/The missing semaster",
+    "Notes/Computer Science/CS61A",
+    "Notes/Computer Science",
+    "Notes/Math/6.050J Information And Entropy",
+    "Notes/Math",
+    "【001-课程笔记】/【CS】/CS61A/Resources.md",
+    "【001-课程笔记】/【笔记】专业课程/【数学】/高等数学-上.md",
+    "【001-课程笔记】/【笔记】算法学习/基础算法.md",
+    "【001-课程笔记】/【笔记】算法学习/基础入门算法.md",
+    "【000-使用说明】/001.md",
+    "未命名.canvas"
+  ]
+}
