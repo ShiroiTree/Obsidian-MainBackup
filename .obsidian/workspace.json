@@ -143,14 +143,6 @@
             }
           },
           {
-            "id": "40b24870cd6101cf",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {}
-            }
-          },
-          {
             "id": "8b7a17d0f23960e0",
             "type": "leaf",
             "state": {
@@ -161,12 +153,22 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "8f7254c648a70ec5",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 379.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,9 +184,11 @@
   },
   "active": "6f521c30c6f4860b",
   "lastOpenFiles": [
-    "mintty.2024-03-24_21-47-59.png",
-    "Misc/Obsidian 配置.md",
+    "README.md",
     "Cache/Obsidian/Plugs/Obsidian-Git.md",
+    "未命名",
+    "Misc/Obsidian 配置.md",
+    "mintty.2024-03-24_21-47-59.png",
     "Cache/Obsidian/Plugs/未命名",
     "Cache/Obsidian/Plugs",
     "Cache/Obsidian",
@@ -211,7 +215,6 @@
     "Notes/Math/Untitled.md",
     "Notes/通识课程/大学生军事理论教程.md",
     "Notes/通识课程/美学原理.md",
-    "Notes/通识课程",
     "Notes/【笔记】机器学习/神经网络初步/从头开始.md",
     "Notes/Computer Science/The missing semaster/Shell.md",
     "Notes/Math/6.050J Information And Entropy/Chap 01 & 02 Bits and Codes.md",
