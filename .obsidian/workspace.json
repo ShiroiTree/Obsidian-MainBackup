@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Obsidian 配置.md",
+                "file": "Cache/Obsidian/Plugs/Obsidian-Git.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "6f521c30c6f4860b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cache/Obsidian/Plugs/Obsidian-Git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,26 +169,30 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "6f521c30c6f4860b",
+  "active": "5b906d334a05b274",
   "lastOpenFiles": [
-    "README.md",
+    "Cache/Software/Command-Line/Git.md",
     "Cache/Obsidian/Plugs/Obsidian-Git.md",
-    "未命名",
     "Misc/Obsidian 配置.md",
+    "Cache/Software/Command-Line/Shell.md",
+    "().md",
+    "Cache/Software/Command-Line",
+    "Cache/Software",
+    "Reading/On Going.md",
+    "Notes/Computer Science/CS61A/Course/Week 1.md",
+    "Notes/Computer Science/CS61A/Course/Notes.md",
+    "README.md",
     "mintty.2024-03-24_21-47-59.png",
     "Cache/Obsidian/Plugs/未命名",
     "Cache/Obsidian/Plugs",
     "Cache/Obsidian",
     "Cache",
     "Misc/工具、网站整理.md",
-    "Reading/On Going.md",
     "Notes/Computer Science/CS61A/Course/Week 5.md",
     "Obsidian-MainBackup",
     "Notes/Computer Science/CS61A/Course/Week 4.md",
     "Notes/Computer Science/CS61A/Course/Week 3.md",
     "Notes/Computer Science/CS61A/Course/Week 2.md",
-    "Notes/Computer Science/CS61A/Course/Week 1.md",
-    "Notes/Computer Science/CS61A/Course/Notes.md",
     "Notes/Computer Science/CS61A/Resources.md",
     "Untitled",
     "Temp/Temp.md",
@@ -211,16 +202,12 @@
     "Notes/Computer Science/CS61A/Labs/Lab 02.md",
     "Notes/Math/CS70 Discrete Math and Probability Theory/Course/Lec 01.md",
     "Notes/Math/CS70 Discrete Math and Probability Theory/Course",
-    "Notes/Math/CS70 Discrete Math and Probability Theory",
     "Notes/Math/Untitled.md",
     "Notes/通识课程/大学生军事理论教程.md",
     "Notes/通识课程/美学原理.md",
     "Notes/【笔记】机器学习/神经网络初步/从头开始.md",
-    "Notes/Computer Science/The missing semaster/Shell.md",
     "Notes/Math/6.050J Information And Entropy/Chap 01 & 02 Bits and Codes.md",
     "Notes/【笔记】通识课程/大学生军事理论教程.md",
-    "Notes/【笔记】通识课程/美学原理.md",
-    "Notes/【笔记】机器学习/神经网络初步.md",
     "未命名.canvas"
   ]
 }
