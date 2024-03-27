@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0f5b113fea1acfba",
+        "id": "5881d53383fc2b3d",
         "type": "tabs",
         "children": [
           {
-            "id": "e50eddd0305e7f59",
+            "id": "bbcdc97d6e2878ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Obsidian 配置.md",
+                "file": "Cache/Software/Command-Line/Shell.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Misc/Obsidian 配置.md",
+            "file": "Cache/Software/Command-Line/Shell.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Misc/Obsidian 配置.md",
+            "file": "Cache/Software/Command-Line/Shell.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Misc/Obsidian 配置.md"
+            "file": "Cache/Software/Command-Line/Shell.md"
           }
         }
       },
@@ -153,21 +153,22 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e50eddd0305e7f59",
+  "active": "0721ff1c5fcf4f36",
   "lastOpenFiles": [
-    "Cache/Obsidian/Plugs/Obsidian-Git.md",
+    "Notes/Computer Science/CS61A/Course/Week 1.md",
+    "Notes/Computer Science/CS61A/Labs/Some Example for Higher-Order Function.md",
     "Misc/Obsidian 配置.md",
+    "Cache/Obsidian/Plugs/Obsidian-Git.md",
+    "Cache/Software/Command-Line/Git.md",
     "Notes/Computer Science/The missing semaster/Shell.md",
     "Notes/Computer Science/CS61A/Course/Week 3.md",
     "Notes/Math/离散数学/命题逻辑.md",
     "Reading/On Going.md",
     "Reading",
-    "Notes/Computer Science/CS61A/Labs/Some Example for Higher-Order Function.md",
     "Notes/Math/CS70 Discrete Math and Probability Theory/Course/Lec 01.md",
     "Notes/Math/离散数学",
     "Notes/Computer Science/CS61A/Course/Wake 2.md",
     "Notes/Math/6.050J Information And Entropy/Chap 01 & 02 Bits and Codes.md",
-    "Notes/Computer Science/CS61A/Course/Week 1.md",
     "Notes/通识课程/大学生军事理论教程.md",
     "Notes/通识课程/美学原理.md",
     "Notes/Data Structure/Lead in.md",
@@ -190,7 +191,6 @@
     "【001-课程笔记】/【笔记】专业课程/【数学】/高等数学-上.md",
     "【001-课程笔记】/【笔记】算法学习/基础算法.md",
     "【001-课程笔记】/【笔记】算法学习/基础入门算法.md",
-    "【000-使用说明】/001.md",
     "未命名.canvas"
   ]
 }

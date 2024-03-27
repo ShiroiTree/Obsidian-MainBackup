@@ -52,3 +52,6 @@ Strings are an abstraction.
 ```
 A backslash "escapes" the following character.
 
+# Lecture 11 Data Abstraction 
+- Compound objectis combine objects together
+- 
