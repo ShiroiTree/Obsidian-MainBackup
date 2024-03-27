@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cache/ToDo/TASKS.md",
+                "file": "TASKS.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#task",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cache/ToDo/TASKS.md",
+                "file": "TASKS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cache/ToDo/TASKS.md",
+                "file": "TASKS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cache/ToDo/TASKS.md"
+                "file": "TASKS.md"
               }
             }
           },
@@ -169,11 +170,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "34f89069fde7e4db",
+  "active": "ed5977fa2c441192",
   "lastOpenFiles": [
     "README.md",
     "Tasks Plugin - Review and check your Statuses 2024-03-27 21-06-07.md",
-    "Cache/ToDo/TASKS.md",
+    "TASKS.md",
     "未命名.canvas",
     "Cache/ToDo",
     "Notes/Computer Science/CS61A/Course/Week 5.md",
